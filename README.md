@@ -7,6 +7,9 @@ This project is designed to enable users create events and invite other users. T
 ## Installation
 User can clone the repo from https://github.com/mdpais/Event-Flow and install dependencies in the terminal and run build.
 
+
+
+
 ## Usage
 In the terminal, the user runs npm install to install all dependencies && npm run build. The user run npm run seed on the terminal and then starts the server and the client side by npm run develop. The user can login and signup, the user can create event, add users to that event and assign tasks.
 
